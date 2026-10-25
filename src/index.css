@@ -29,8 +29,8 @@
 body {
   margin: 0;
   font-family: var(--font-sans);
-  background-color: black;
-  color: white;
+  background-color: #080d1a;
+  color: #f1f5f9;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   overflow-x: hidden;
@@ -87,7 +87,7 @@ button, .no-select {
 }
 
 .ipl-text-gradient {
-  background: linear-gradient(135deg, #fff 0%, #d4af37 100%);
+  background: linear-gradient(135deg, #ffffff 0%, #38bdf8 100%);
   -webkit-background-clip: text;
   background-clip: text;
   -webkit-text-fill-color: transparent;
