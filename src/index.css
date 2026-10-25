@@ -3,10 +3,11 @@
 
 @theme {
   --font-sans: 'Inter', ui-sans-serif, system-ui, -apple-system;
-  --color-ipl-blue: #0b0e1e;
-  --color-ipl-gold: #d4af37;
-  --color-ipl-dark: #0b0e1e;
+  --color-ipl-blue: #101d3a;
+  --color-ipl-gold: #38bdf8;
+  --color-ipl-dark: #080d1a;
 }
+
 
 /* Desktop compact mode: the 125% browser-zoom view (roughly 1200px CSS wide)
    and narrow laptops land below 1280px. From 1280px up the room keeps the
